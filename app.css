@@ -1,0 +1,73 @@
+ 
+ body{
+ 	background-color: skyblue;
+ }
+.user{
+	top: 0;
+	 margin-left: 550px;
+	width: 15%;
+	height: 15%;
+	border-radius: 50%;
+}
+p{
+	font-family: sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0;
+
+
+}
+.paul{
+	 
+	  
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.peter{
+	 
+	  
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.mouses{
+	 
+	  
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.jermia{
+	 
+	  
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.David{
+	 
+	  
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+ ul {
+    list-style-type: none;
+    padding: 0;
+}
+button{
+	padding: 10px 20px;
+    background-color: #A98BFB;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 150px;
+
+}
+#posts{
+	left: 0;
+	color: red;
+}
