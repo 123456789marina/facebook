@@ -4,7 +4,7 @@
  }
 .user{
 	top: 0;
-	 margin-left: 550px;
+	 left:0;
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
@@ -13,7 +13,7 @@ p{
 	font-family: sans-serif;
 	font-size: 40px;
 	font-weight: bold;
-	text-align: center;
+	 
 	margin-top: 0;
 
 
